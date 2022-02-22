@@ -4,3 +4,6 @@
 [submodule "pack/psf/start/black"]
 	path = pack/psf/start/black
 	url = https://github.com/psf/black.git
+[submodule "pack/mhinz/start/vim-startify"]
+	path = pack/mhinz/start/vim-startify
+	url = https://github.com/mhinz/vim-startify
