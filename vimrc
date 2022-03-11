@@ -9,9 +9,6 @@ set smartindent
 set rulerformat=%17(%-1(%M%)\|col\ %2c\|wc\ %{wordcount().words}%)
 set foldmethod=marker
 
-" Wrap cursor at end of line.
-set whichwrap+=<,>,h,l,[,]
-
 " Startify
 let g:startify_custom_header = [ '   VIM ' . v:version / 100 . '.' . v:version % 100 ]
 
